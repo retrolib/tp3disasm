@@ -1,12 +1,14 @@
 	;*** TURBO PASCAL version 3.01 A source code
 	;*** Predecessor of Turbo Pascal 5.5
-	;***
+	;*** Software architect : Anders Hejlsberg
 	;*** 
 	;*** Code Copyright 1986 Borland International
+	;*** version 5.5 released by successor company Embarcadero
 	;*** https://edn.embarcadero.com/article/20803
 	;*** 
 	;*** Thanks to the original author of these disassembly comments
-	;***  
+	;*** Archived here for educational purposes
+	;*** 
 	;"***
 				cseg	$100	;"COM file...
 	;
